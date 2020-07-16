@@ -1,1 +1,4 @@
-[![Acehahol](https://circleci.com/gh/Acehahol/Practik.svg?styl e=svg)](https://circleci.com/gh/Acehahol/Practik)
+# Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Acehahol/Prac/master)
+
+
